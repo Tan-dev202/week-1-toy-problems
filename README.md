@@ -1,7 +1,7 @@
 # Week-1-Toy-Problems
 This repo has solutions to the following toy problems (challenges) in JavaScript:
-- [ ] Challenge 1: Student Grade Generator
-- [ ] Challenge 2: Speed Detector
+- [x] Challenge 1: Student Grade Generator
+- [x] Challenge 2: Speed Detector
 - [ ] Challenge 3: Net Salary Calculator
 
 <ins>**Challenge 1: Student Grade Generator (Toy Problem)**
