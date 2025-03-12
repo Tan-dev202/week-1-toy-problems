@@ -1,3 +1,4 @@
+// Net Salary Calculator
 function calculateNetSalary() {
     // input values of basic salary and benefits
     let basicSalary = parseFloat(prompt("Enter basic salary amount"));
